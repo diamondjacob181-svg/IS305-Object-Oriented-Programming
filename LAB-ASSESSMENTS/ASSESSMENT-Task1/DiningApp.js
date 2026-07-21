@@ -9,7 +9,7 @@
 
 const MealBooking = require('./MealBooking');
 
-// Create a booking object with details
+// Create a booking object with student details
 const booking1 = new MealBooking("240574", "George Jacob", "2026-07-24", "Lunch", 2, "Vegeterian");
 
 // Display formatted booking receipt
